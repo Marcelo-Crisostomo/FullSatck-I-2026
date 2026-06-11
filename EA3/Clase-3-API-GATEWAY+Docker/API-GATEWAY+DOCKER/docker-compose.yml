@@ -1,0 +1,26 @@
+services:
+  ms-productos:
+    build: ./ms-productos
+    container_name: ms-productos
+    ports:
+      - "8081:8081"
+  ms-pedidos:
+    build: ./ms-pedidos
+    container_name: ms-pedidos
+    ports:
+      - "8082:8082"
+    environment:
+      MS_PRODUCTOS_URL: http://ms-productos:8081
+    depends_on:
+      - ms-productos
+  api-gateway:
+    build: ./api-gateway
+    container_name: api-gateway
+    ports:
+      - "8080:8080"
+    environment:
+      MS_PRODUCTOS_URI: http://ms-productos:8081
+      MS_PEDIDOS_URI: http://ms-pedidos:8082
+    depends_on:
+      - ms-productos
+      - ms-pedidos

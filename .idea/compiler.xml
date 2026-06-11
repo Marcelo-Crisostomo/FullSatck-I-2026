@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for petmontt" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="petmontt (1)" />
+        <module name="petmontt (2)" />
+        <module name="petmontt" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-productos (1)" />
+        <module name="security" />
+        <module name="ms-pedidos (1)" />
+        <module name="ms-pedidos" />
+        <module name="ms-productos" />
+        <module name="pedidos" />
+        <module name="producto" />
+        <module name="productosapi" />
+        <module name="swagger" />
+      </profile>
+      <profile name="Annotation profile for demoinsforge" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.44/lombok-1.18.44.jar" />
+        </processorPath>
+        <module name="demoinsforge" />
+        <module name="cursosapi" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cursosapi" options="-parameters" />
+      <module name="demoinsforge" options="-parameters" />
+      <module name="ms-pedidos" options="-parameters" />
+      <module name="ms-pedidos (1)" options="-parameters" />
+      <module name="ms-productos" options="-parameters" />
+      <module name="ms-productos (1)" options="-parameters" />
+      <module name="pedidos" options="-parameters" />
+      <module name="petmontt" options="-parameters" />
+      <module name="petmontt (1)" options="-parameters" />
+      <module name="petmontt (2)" options="-parameters" />
+      <module name="producto" options="-parameters" />
+      <module name="productosapi" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="swagger" options="-parameters" />
+    </option>
+  </component>
+</project>

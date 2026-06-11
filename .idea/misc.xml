@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EA1/Clase-3-PetMontt-2+PostMan/petmontt-final/petmontt/petmontt/pom.xml" />
+        <option value="$PROJECT_DIR$/EA1/Clase-4-Agregando-Put-Patch-PetMontt-3/petmontt-clase-4-con PUT PATCH y DELETE/petmontt/petmontt/pom.xml" />
+        <option value="$PROJECT_DIR$/EA1/Clase-7-Colecciones+Listas+Validaciones/cursosapi-master/cursosapi-master/pom.xml" />
+        <option value="$PROJECT_DIR$/EA1/Clase-10-Final-ResponseEntity+TestConPostman/productosapi-FS1/productosapi/pom.xml" />
+        <option value="$PROJECT_DIR$/EA1/Clase-2-Introducción-a-Microservicios-PetMontt/petmontt-avance-clase-2/petmontt/petmontt/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-1-DB-Online/demoinsforge/demoinsforge/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-7-SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-5-MigracionV2+Logs_Con-SLF4J/ms-pedidos/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-5-MigracionV2+Logs_Con-SLF4J/ms-productos/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-4-Migraciones_comunicacion_ DTO/ms-pedidos/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-4-Migraciones_comunicacion_ DTO/ms-productos/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-6-WebClient-Comunicacion-entre-MS/webClientprueba/pedidos/pom.xml" />
+        <option value="$PROJECT_DIR$/EA2/Clase-6-WebClient-Comunicacion-entre-MS/webClientprueba/producto/pom.xml" />
+        <option value="$PROJECT_DIR$/EA3/Clase-1-Swagger-OpenAPI/swagger/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
