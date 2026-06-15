@@ -4,12 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfb5bf78-9889-4a98-a3c2-c1a5ee60eae7" name="Changes" comment="" />
+    <list default="true" id="18b0c04f-a659-427e-8965-4fea8fab420e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "marcelo-crisostomo-docente"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Marcelo-Crisostomo/FullSatck-I-2026.git",
+    "accountId": "5b6db224-b88f-49a8-b1cd-32eb377333b1"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -18,10 +35,10 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
+  "associatedIndex": 0,
+  "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3EzalRLcgoitDZ8hEnl2UH0drew" />
+  <component name="ProjectId" id="3F0J1X06uzRT60yoanl3PmyhEvb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,10 +48,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/marce/OneDrive/Escritorio/API-GATEWAY+DOCKER"
+    "last_opened_file_path": "C:/Users/marce/OneDrive/Escritorio/FullSatck-I-2026/EA3/Clase-3-API-GATEWAY+Docker/API-GATEWAY+DOCKER",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -47,11 +71,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cfb5bf78-9889-4a98-a3c2-c1a5ee60eae7" name="Changes" comment="" />
-      <created>1781184002578</created>
+      <changelist id="18b0c04f-a659-427e-8965-4fea8fab420e" name="Changes" comment="" />
+      <created>1781205839232</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1781184002578</updated>
+      <updated>1781205839232</updated>
     </task>
     <servers />
   </component>
